@@ -14,8 +14,13 @@ $ pip install -r requirements.txt
 ```bat
 $ ./run_es_pred seq_file.fasta
 ```
-### Note
+## Note
 **change the name of seq_file.fasta accordingly**
 
 **Provide all sequences in one file in case of multiple sequences**
+
+## Run Example Files
+```bat
+$ ./run_ex_pred example/sequence.fasta
+```
 
