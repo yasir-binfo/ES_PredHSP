@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 ```
 ## Usage
 ```bat
-$ ./run_es_pred.sh seq_file.fasta
+$ ./run_es_pred seq_file.fasta
 ```
 ### Note
 **change the name of seq_file.fasta accordingly**
