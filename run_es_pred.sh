@@ -47,9 +47,11 @@ for x in decoding:
 
 " >> python_file.py
 
-python python_file.py
+python python_file.py >> predictions.txt
 
 rm python_file.py
 
 echo -e "Process Completed \a"
+echo 'predictions.txt file generated'
 echo -e '-------------------------------------------------------\n'
+
