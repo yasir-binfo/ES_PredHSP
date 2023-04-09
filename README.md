@@ -3,14 +3,17 @@ Enhanced sampling machine learning model able to predict 6 types of Heat Shock P
 
 ## Downloading
 ### Download the zip file or clone the repository
-> git clone git@github.com:yasir-binfo/ES_PredHSP.git
-
+```bat
+$ git clone git@github.com:yasir-binfo/ES_PredHSP.git
+```
 ## Install Dependencies
-> pip install -r requirements.txt
-
+```bat
+$ pip install -r requirements.txt
+```
 ## Usage
-> ./run_es_pred.sh seq_file.fasta
-
+```bat
+$ ./run_es_pred.sh seq_file.fasta
+```
 ### Note
 **change the name of seq_file.fasta accordingly**
 
