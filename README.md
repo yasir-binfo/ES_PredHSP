@@ -21,6 +21,6 @@ $ ./run_es_pred seq_file.fasta
 
 ## Run Example Files
 ```bat
-$ ./run_ex_pred example/sequence.fasta
+$ ./run_ex_pred.sh example/sequence.fasta
 ```
 
